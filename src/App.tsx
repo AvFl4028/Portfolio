@@ -13,8 +13,8 @@ function App() {
                 <Begin />
                 <Separator decorative={false} size="4" orientation="vertical" my="9" />
                 <Separator decorative={false} size="4" orientation="vertical" my="9" />
-                <Separator decorative={false} size="4" orientation="vertical" my="9" />
                 <Projects />
+                <Separator decorative={false} size="4" orientation="vertical" my="9" />
                 <Separator decorative={false} size="4" orientation="vertical" my="9" />
                 <AboutMe />
                 <Separator decorative={false} size="4" orientation="vertical" my="9" />
