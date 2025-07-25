@@ -1,4 +1,4 @@
-import { Section, TabNav } from "@radix-ui/themes";
+import { TabNav } from "@radix-ui/themes";
 
 function TopBar() {
     return (
